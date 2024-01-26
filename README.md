@@ -1,6 +1,8 @@
 # ScrollSpy Web Component
 
-The `scroll-spy` is a custom web component that highlights navigation links when the corresponding section is in view.
+`scroll-spy` is a custom web component that highlights navigation links when the corresponding section is in view.
+
+[See demo](https://tflx.github.io/scroll-spy/)
 
 ## Usage
 
