@@ -1,6 +1,6 @@
 {
   "name": "scroll-spy-web-component",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A component that will highlight navigation links when the corresponding article anchor is in view",
   "source": "index.ts",
   "main": "dist/index.js",
